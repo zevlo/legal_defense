@@ -1,0 +1,5 @@
+{
+  "name": "Overturned",
+  "description": "A legal assistance application using Gemini to provide case overviews, draft motions, analyze evidence, and explore collateral consequences.",
+  "requestFramePermissions": []
+}
